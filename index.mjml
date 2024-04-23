@@ -1,0 +1,170 @@
+<mjml>
+  <mj-head>
+    <mj-title>50 ANOS DO 25 DE ABRIL</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-raw>
+      <!-- Top Bar -->
+    </mj-raw>
+    <mj-section padding="0px" background-color="#FF3FB4" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-Top-BarBG.jpg" padding="0px">
+     <mj-column>
+        <mj-text color="#FFF" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/semana-do-patrono-2023/" style="color:#FFF;" target="_blank">browser</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-raw>
+      <!-- Logos and Title -->
+    </mj-raw>
+    <mj-section background-color="#FCFCFD" padding="0px">
+      <mj-column>
+        <mj-image width="600px" alt="50 ANOS DO 25 DE ABRIL" src="img/header.png" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-bottombargradiantBG.png" background-color="#F15822">
+      <mj-column>
+        <mj-text color="#FFF" font-size="25px"><p>A poesia está na rua!</p><p>50 anos de abril...</p></mj-text>
+        
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0">
+      <mj-column width="60%">	
+        <mj-text padding="0 25px" font-size="14px">
+          
+          <p style="color:#151e23; line-height: 19px">
+            Em 25 de abril de 1974 tudo mudou!
+          </p>
+          <p p style="color:#151e23; line-height: 19px">
+Previamente, um grupo de militares –
+Movimento das Forças Armadas – começou a
+preparar uma revolução para pôr fim à
+ditadura do Estado Novo.</p>
+          <p p style="color:#151e23; line-height: 19px">
+Durante a madrugada do dia 25 de abril de
+1974, ao som de “Grândola, Vila Morena”,
+militares de todo o país saíram para as ruas.
+Em Lisboa, os militares cercaram/ocuparam
+diversas infraestruturas (ministérios, estações
+de rádio, aeroporto, entre outras).</p>
+            <p p style="color:#151e23; line-height: 19px">
+         As tropas do capitão Salgueiro Maia cercaram
+o quartel da GNR, no largo do Carmo.
+Marcello Caetano negociou com o capitão
+Salgueiro Maia e aceitou render-se ao general
+António de Spínola.</p>
+           <p p style="color:#151e23; line-height: 19px">
+A população saiu às ruas, manifestou apoio
+aos soldados e gritou palavras de ordem.
+Desde, então, “os jornais, os cartazes e as
+imagens das pessoas na rua transformaram-se.
+          </p>
+          </p>
+        </mj-text>
+      </mj-column>
+       <mj-column width="40%">	
+        <mj-image width="300px" alt="50 ANOS DO 25 DE ABRIL" src="img/sm.jpg" padding="0px"></mj-image>
+         <mj-text padding="0" align="center" font-size="10px"><p style="color:#151e23; line-height: 11px">Capitão Salgueiro Maia<br/>Foto: Alfredo Cunha</p></mj-text>
+      </mj-column>
+       <mj-column width="100%">
+         <mj-text padding="0 25px" font-size="14px">
+          <p style="color:#151e23; line-height: 19px">
+            Deu-se uma explosão de cor!
+Foi a forma como a liberdade se tornou visível – liberdade de expressão, liberdade de
+manifestação, liberdade de imprensa e liberdade política. Acabava quase meio século
+de ditadura e começava a democracia” (Arquivo Municipal de Lisboa).<br/>
+            
+           </p>
+           <p style="color:#151e23; line-height: 19px">Estas constituíram as principais aprendizagens desenvolvidas ao longo das aulas de
+História e Geografia de Portugal, Português, Educação Tecnológica, Educação Visual e
+de Cidadania e Desenvolvimento, em articulação com o Arquivo Municipal de Lisboa, e
+que culminaram na reprodução através da técnica de retrato químico de diferentes
+cartazes comemorativos, de poemas relativos à efeméride e dos populares cravos de
+abril.</p>
+         </mj-text>
+       </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Split Crane and Text -->
+    </mj-raw>
+  <mj-section padding="0px" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-bottombargradiantBG.png" background-color="#F15822">
+      <mj-column>
+        <mj-spacer height="8px" />
+        
+      </mj-column>
+    </mj-section>
+   <mj-section background-color="#FCFCFD" padding="0px">
+     
+      <mj-column>
+        <mj-image width="600px" alt="50 ANOS DO 25 DE ABRIL" src="img/wall-one.png" padding="0px"></mj-image>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="0px" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-bottombargradiantBG.png" background-color="#F15822">
+      <mj-column>
+        <mj-spacer height="8px" />
+        
+      </mj-column>
+    </mj-section>
+  	
+  
+  <mj-section padding="0">
+      <mj-column width="100%">	
+        <mj-text padding="0 25px" font-size="14px">
+          
+          <p style="color:#151e23; line-height: 19px">
+            Por que se associa o cravo ao 25 de abril?
+          </p>
+          <p style="color:#151e23; line-height: 19px">Na manhã de 25 de abril de 1974, Celeste Caeiro saiu à rua
+para cumprir com mais um dia de trabalho enquanto
+empregada de mesa num restaurante que, nesse dia,
+comemorava o 1.º aniversário. De entre as lembranças
+adquiridas pelo proprietário para ofertar aos clientes,
+encontravam-se molhos de cravos.</p>
+          <p style="color:#151e23; line-height: 19px">
+            Porém, com a agitação que se começava a gerar na rua, o
+proprietário decidiu não abrir as portas ao público, tendo
+distribuído os cravos pelos funcionários.
+No percurso de regresso a casa, Celeste foi interpelada por
+soldados, tendo-lhe sido pedido um cigarro. Não possuindo
+tabaco, ofereceu-lhe um dos cravos que transportava
+consigo.
+          </p>
+          <p style="color:#151e23; line-height: 19px">
+          Celeste prosseguiu, distribuindo cravos aos soldados – uns colocaram-nos nos canos
+das armas, outros na lapela ou até atrás da orelha.
+Floristas da baixa pombalina replicaram o gesto de Celeste e, assim, contribuíram para
+a associação desta flor à revolução de abril.
+          </p>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section padding="0px" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-bottombargradiantBG.png" background-color="#F15822">
+      <mj-column>
+        <mj-text color="#FFF" font-size="16px" line-height="19px"><p>Visite os núcleos de exposição de trabalhos dos nossos alunos relativos à comemoração da efeméride nas instalações do Agrupamento de Escolas D. Filipa de Lencastre.</p></mj-text>
+        
+      </mj-column>
+    </mj-section>
+  <mj-section background-color="#FCFCFD" padding="0px">
+     
+      <mj-column>
+        <mj-image width="600px" alt="50 ANOS DO 25 DE ABRIL" src="img/wall-two-t.png" padding="0px"></mj-image>
+        
+         <mj-text padding="0" align="center" font-size="12px"><p style="color:#151e23; line-height: 11px">Mural expositivo “A poesia está na rua” – 6.º ano</p></mj-text>
+      </mj-column>
+    </mj-section>
+  <mj-section background-color="#FCFCFD" padding="0px">
+     
+      <mj-column>
+        <mj-image width="600px" alt="50 ANOS DO 25 DE ABRIL" src="img/wall-three-t.png" padding="0px"></mj-image>
+        
+         <mj-text padding="0" align="center" font-size="12px"><p style="color:#151e23; line-height: 11px">Mural expositivo “A poesia está na rua” – 6.º ano</p></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Bottom Bar -->
+    </mj-raw>
+    <mj-section padding="0px" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-launch-bottombargradiantBG.png" background-color="#F15822">
+      <mj-column>
+        <mj-image width="100px" href="https://www.aedfl.pt/" src="img/logo.png" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
