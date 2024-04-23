@@ -8,7 +8,7 @@
     </mj-raw>
     <mj-section padding="0px" background-color="#FF3FB4" background-url="https://dmmedia.sphero.com/email-marketing/Sphero/Mini-Launch-email-Top-BarBG.jpg" padding="0px">
      <mj-column>
-        <mj-text color="#FFF" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/semana-do-patrono-2023/" style="color:#FFF;" target="_blank">browser</a>.</mj-text>
+        <mj-text color="#FFF" align="center" font-family="UniversLTStd, Arial" font-size="13px">Abrir no <a href="https://jarg1976.github.io/aedfl-25-abril/" style="color:#FFF;" target="_blank">browser</a>.</mj-text>
       </mj-column>
     </mj-section>
     
@@ -26,7 +26,7 @@
         
       </mj-column>
     </mj-section>
-     <mj-section padding="0">
+     <mj-section padding="15px 0">
       <mj-column width="60%">	
         <mj-text padding="0 25px" font-size="14px">
           
@@ -110,7 +110,7 @@ abril.</p>
         <mj-text padding="0 25px" font-size="14px">
           
           <p style="color:#151e23; line-height: 19px">
-            Por que se associa o cravo ao 25 de abril?
+            <strong>Por que se associa o cravo ao 25 de abril?</strong>
           </p>
           <p style="color:#151e23; line-height: 19px">Na manhã de 25 de abril de 1974, Celeste Caeiro saiu à rua
 para cumprir com mais um dia de trabalho enquanto
